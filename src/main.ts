@@ -8,4 +8,4 @@ async function bootstrap() {
     console.log('server is running at: ' + PORT);
   });
 }
-bootstrap();
+bootstrap()
